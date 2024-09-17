@@ -1,5 +1,10 @@
 # Halo semua ✨
-## Perkenalkan saya Ahnaf Fauzan dari prodi Sistem Informasi Fakulats Ilmu Komputer di Universitas Amikom Purwokerto
+
+Perkenalkan nama saya **Ahnaf Fauzan**.<br>
+ 
+Saya seorang **Android Development** di [Dicoding](https://www.dicoding.com/users/ahnaf_fauzan/academies).<br>
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ahnaf-fauzan-31553a299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)ku ya.
 
 ### Github Statistic
 <p align="left">
