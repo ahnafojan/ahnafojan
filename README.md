@@ -75,10 +75,7 @@ Full Stack Developer focused on building reliable web applications with clean ar
 
 ## GitHub
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahnafojan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnafojan&layout=compact&theme=transparent&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahnafojan&theme=transparent&hide_border=true" />
