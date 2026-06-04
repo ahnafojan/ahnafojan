@@ -58,8 +58,18 @@
 
 ---
 
-###
-
-<img width="100%" src="https://raw.githubusercontent.com/ahnafojan/ahnafojan/pacman-output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ahnafojan/ahnafojan/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ahnafojan/ahnafojan/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    width="100%"
+    alt="Pacman animation"
+    src="https://raw.githubusercontent.com/ahnafojan/ahnafojan/pacman-output/pacman-contribution-graph.svg"
+  />
+</picture>
