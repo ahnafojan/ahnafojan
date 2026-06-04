@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahnafozan/ahnafozan/snake-output/snake.svg" alt="Snake animation" />
 
 ###
