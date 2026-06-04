@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=darkslategray&left_text=Visitor"  />
+  <a href="https://github.com/ahnafojan" target="_blank">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ahnafojan.ahnafojan&left_color=darkslategray&left_text=Visitor" />
+  </a>
 </div>
 
 ###
@@ -64,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahnafozan/ahnafozan/snake-output/snake.svg" alt="Snake animation" />
 
 ###
